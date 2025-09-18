@@ -1,2 +1,3 @@
-# .github
-Github introduction for the webchild project
+# WEBCHILD
+
+This organisation contains all code related to the ERC Webchild project.
