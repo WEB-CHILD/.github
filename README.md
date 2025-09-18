@@ -1,3 +1,3 @@
 # WEBCHILD
 
-This organisation contains all code related to the ERC Webchild project.
+To Update organisation readme, please edit ./profile/readme.md
